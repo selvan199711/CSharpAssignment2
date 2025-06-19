@@ -1,0 +1,36 @@
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\appsettings.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.staticwebassets.endpoints.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.exe
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.deps.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.runtimeconfig.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\C# Assignment 2.pdb
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.csproj.AssemblyReference.cache
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.AssemblyInfoInputs.cache
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.AssemblyInfo.cs
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\scopedcss\bundle\C# Assignment 2.styles.css
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.C# Assignment 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.C# Assignment 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.build.C# Assignment 2.props
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.C# Assignment 2.props
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.C# Assignment 2.props
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assig.7B8FA362.Up2Date
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\refint\C# Assignment 2.dll
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.pdb
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\C# Assignment 2.genruntimeconfig.cache
+C:\Users\thami\Desktop\HTTP-5125\C# Assignment 2\C# Assignment 2\obj\Debug\net8.0\ref\C# Assignment 2.dll
